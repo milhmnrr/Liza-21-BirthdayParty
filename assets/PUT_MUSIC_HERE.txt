@@ -1,0 +1,1 @@
+Rename your chosen music file to music.mp3 and put it in this folder.
